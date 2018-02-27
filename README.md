@@ -41,7 +41,7 @@ address {
 <table>
 	<tr>
     <td>Name<br/> Address<br/> Place and date of birth<br/> Nationality<br/> Phone<br/> E-mail<br/> LinkedIn<br/> www<br/> Twitter<br/> </td>
-    <td>Koenraad Van Hoorde<br/> Burg. Van Gansberghelaan 53, 9820 Merelbeke, Belgium<br/> Ghent, March 2<sup>nd</sup>, 1978<br/> Belgian<br/> +32 (0) 498 72 67 23<br/> <a href="mailto:koenraadvanhoorde@live.be"> koenraadvanhoorde@live.be </a><br/> <a href="https://linkedin.com/in/vanhoordek"> https://linkedin.com/in/vanhoordek </a><br/> <a href="https://vanhoordek.github.io/CV/"> https://vanhoordek.github.io/CV/ </a><br/> @vanhoordek </td>
+    <td>Koenraad Van Hoorde<br/> Burg. Van Gansberghelaan 53, 9820 Merelbeke, Belgium<br/> Ghent, March 2<sup>nd</sup>, 1978<br/> Belgian<br/> +32 (0) 498 72 67 23<br/> <a href="mailto:vanhoordek@outlook.com"> vanhoordek@outlook.com </a><br/> <a href="https://linkedin.com/in/vanhoordek"> https://linkedin.com/in/vanhoordek </a><br/> <a href="https://vanhoordek.github.io/CV/"> https://vanhoordek.github.io/CV/ </a><br/> @vanhoordek </td>
   </tr>
 </table>
 </address>
@@ -766,4 +766,4 @@ Belgium.</li>
 <br/>
 <br/>
 Last update:
-Tue, 27 Feb 2018 16:48:28 +0000
+Tue, 27 Feb 2018 17:37:33 +0000
