@@ -41,8 +41,8 @@ ul.a {
 <body>
 
 <ul class="a">
-  <li>The completion of my Ph.D. and current post-doc position not only allowed me to further develop and improve my microbiology related theoretical knowledge and practical skills therein but also to stay up to date with the developments in state-of-the-art technologies.</li><br/>
-  <li>I enjoy to be part of and actively contribute to joint projects, but I'm also self-reliant, e.g. in the design, planning and execution of experiments, and I'm not afraid to take initiative.</li><br>/
+  <li>The completion of my Ph.D. and current post-doc position not only allowed me to further develop and improve my microbiology related theoretical knowledge and practical skills therein, but also to stay up to date with the developments in state-of-the-art technologies.</li><br/>
+  <li>I enjoy being part of and actively contribute to joint projects, but I'm also self-reliant, e.g. in the design, planning and execution of experiments, and I'm not afraid to take initiative.</li><br/>
   <li>I'm very good at motivating and transferring my drive and passion for science onto other people.</li><br/>
   <li>Quality minded, accurate and problem-solving. In this context, I also like to engage myself in data-analysis and precision work tasks.</li><br/>
   <li>I'm very flexible, and a highly motivated and curious person always willing to learn and apprehend new things in order to complete projects adequately and timely.</li>
@@ -88,14 +88,14 @@ ul.c {
     <ul class="b">
       <li>Research</li>
         <ul class="c">
-          <li>microbiology of (fermented) foods and industrial fermentations in particular, microbiology in general (environment, water, soil, clinical ...)</li>
+          <li>microbiology of (fermented) foods and industrial fermentations in particular, microbiology in general (environment, water, soil, clinical...)</li>
           <li>microbial diversity and dynamics studies using molecular fingerprinting, sequencing and mass spectrometry techniques</li>
           <li>development and validation of proteomics approaches in the context of microbial taxonomy and diversity and as tools to monitor fermentation processes</li>
         </ul>
       <li>Supervising the work of lab technicians and students (Ph.D., master and bachelor level)</li>
       <li>Teaching and training: e.g. microbiology, microbiological methods, gene technology, organic chemistry, food biotechnology, lab exercises</li>
-      <li>Communication on research orally and written</li>
-      <li>As a member of the biosafety committee I'm in control of correct practices in the lab, writing guidelines and performing risk analyses; my presence is required during audits</li>
+      <li>Communication of research orally and written</li>
+      <li>As a member of the Biosafety Committee I'm in control of correct practices in the lab, writing guidelines and performing risk analyses; my presence is required during audits</li>
     </ul>
 <br/>
   <li>Ph.D. in Biochemistry/Microbiology, Faculty of Sciences, Ghent University, 2004-2009<br/>
@@ -106,7 +106,7 @@ ul.c {
   <br/>
   Accomplishments:
     <ul class="b">
-      <li>Obtained funds for a Ph.D.</li>
+      <li>Obtained funding for a Ph.D.</li>
       <li>Method development, optimization and validation:</li>
         <ul class="c">
           <li>of molecular fingerprinting techniques to study microbial communities</li>
@@ -182,7 +182,7 @@ ul.b {
       <li>Computing for Data Analysis, an introduction to programming in R - Johns Hopkins University, US (Coursera Signature Track) 2014</li>
     </ul><br/>
   <li>Principles of biorisk management - Ghent University, Belgium, 2013, 5-day training</li><br/>
-  <li>Statistics - Institute for Continuing Eduction in Science (ICES), Ghent University, Belgium</li>
+  <li>Statistics - Institute for Continuing Education in Science (ICES), Ghent University, Belgium</li>
     <ul class="b">
       <li>Multivariate statistics, 2012</li>
       <li>Analysis of variance, 2006</li>
@@ -230,10 +230,10 @@ ul.b {
   <li>Computer skills</li>
     <ul class="b">
       <li>MS Windows, MS Office Suite, Sharepoint</li>
-      <li>Graphic tools (Photoshop, CorelDraw): I use graphic software tools for designing and editing illustrations based ongraphs, tables, and any other datea to be visualized in publications and presentations.</li>
-      <li>Database tools (MS-Access): A basic knowledge of MS-Access allows me to create relational databases querries and reports. In addition I use many other database-driven tools to store and query scientific and other related data.</li>
+      <li>Graphic tools (Photoshop, CorelDraw): I use graphic software tools for designing and editing illustrations based on graphs, tables, and any other data to be visualized in publications and presentations.</li>
+      <li>Database tools (MS-Access): A basic knowledge of MS-Access allows me to create relational databases queries and reports. In addition, I use many other database-driven tools to store and query scientific and other related data.</li>
       <li>Statistics and bio-informatics software</li>
-      <li>Programmings languages (R, Python, Linux, HTML)</li>
+      <li>Programming languages (R, Python, Linux, HTML)</li>
     </ul><br/>
   <li>Communication skills</li>
     <ul class="b">
@@ -254,7 +254,7 @@ ul.b {
 <br/>
 
 #### <span style="color:rgb(0, 32, 96);">INTERESTS
-member minisoccer team; soccer coach (obtained instructor C and trainer B certificates); computer games; chess; passion for food and wine; parent commmittee member
+member mini-soccer team; soccer coach (obtained instructor C and trainer B certificates); computer games; chess; passion for food and wine; parent committee member
 
 <br/>
 
@@ -305,7 +305,7 @@ A description of the lactic acid bacteria microbiota associated with the product
 vegetables in Vietnam. International Journal of Food Microbiology, 163(1), 19-27.</li>
       <li>Nguyen, T.L.D., <b>Van Hoorde, K.</b>, Cnockaert, M., De Brandt, E., De Bruyne, K., Le, B.T., Vandamme, P.
 2013. A Culture-dependent and -independent approach for the identification of lactic acid bacteria associated
-with the production of Nem chua, a Vietnamese fermented meat product. Food Research International, 50(1),
+with the production of nem chua, a Vietnamese fermented meat product. Food Research International, 50(1),
 232-240.</li>
       <li>Nguyen, T.L.D., <b>Van Hoorde, K.</b>, Cnockaert, M., De Brandt, E., Aerts, M., Le, B.T., Vandamme, P. 2012.
 Validation of MALDI-TOF MS for rapid classification and identification of lactic acid bacteria, with a focus on
@@ -513,7 +513,7 @@ Conference on Food Microbiology, Ghent, Belgium.</li>
       <li><b>Van Hoorde, K.</b>, Vandamme, P., Huys, G. 2006. The use of PCR-DGGE as a culture-independent approach
 to study the diversity of lactic acid bacteria associated with the production of artisanal Gouda-type cheeses.
 Belgian Society for Microbiology Symposium, Brussels, Belgium.</li>
-      <li>Masco, L., <b>Van Hoorde, K.</b>, Swings, J., Huys, G. 2005. Antimicrobial susceptibility testing of <i>Bifidobacterium</li>
+      <li>Masco, L., <b>Van Hoorde, K.</b>, Swings, J., Huys, G. 2005. Antimicrobial susceptibility testing of <i>Bifidobacterium</i>
 strains from humans, animals and probiotic products. Doctoraatssymposium Faculteit Wetenschappen, Ghent,
 Belgium.</li>
     </ul>
