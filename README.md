@@ -368,7 +368,7 @@ Belgian beers of more than 25 years old unraveled with MALDI-TOF MS. In preparat
       <li>Randazzo, C. L., Caggia, C., Butera, V. M., Russo, N., <b>Van Hoorde, K.</b> Microbial diversity and functional
 properties of lactic acid bacteria associated with the production of Piacentinu Ennese cheese. In preparation.</li>
       <li><b>Van Hoorde, K.</b>, Van Landschoot, A. MALDI-TOF MS of microbial mixtures: Impressions of its
-applicability for monitoring the microbial diversity in food ecosystems. In preparation.
+applicability for monitoring the microbial diversity in food ecosystems. In preparation.</li>
     </ul><br/>
 </ul>
 
@@ -524,4 +524,4 @@ Belgium.</li>
 
 <br/>
 Last update:
-Tue, 27 Feb 2018 12:54:20 +0000
+Tue, 27 Feb 2018 13:31:24 +0000
