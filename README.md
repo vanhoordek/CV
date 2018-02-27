@@ -1,8 +1,31 @@
-#### <span style="color:rgb(0, 32, 96);">PERSONAL INFORMATION
+<html>
+<head>
+<style>
+p.head {
+	text-align: right;
+    font-variant: small-caps;
+    font-size: 26px;
+    font-weight: bold;
+    border-style: hidden hidden solid solid;
+    margin-right: 520px;
+    border-color: rgb(0, 32, 96) rgb(255, 102, 0);
+}
+</style>
+</head>
+<body>
+
+<p class="head">
+Personal Information
+</p>
+</body>
+</html>
+
+
 
 ![here should come my picture](https://media-exp2.licdn.com/mpr/mpr/shrinknp_200_200/AAIA_wDGAAAAAQAAAAAAAAqbAAAAJDg2OTQ5MzhlLWE5Y2YtNDY1ZC1iZDdjLWEzYWJiNWM2MmZlMQ.jpg)
-
 <br/>
+
+
 
 <html>
 <head>
@@ -26,9 +49,36 @@ address {
 </body>
 </html>
 
+
+
 <br/>
 
-#### <span style="color:rgb(0, 32, 96);">ASSETS
+
+
+<html>
+<head>
+<style>
+p.head {
+	text-align: right;
+    font-variant: small-caps;
+    font-size: 26px;
+    font-weight: bold;
+    border-style: hidden hidden solid solid;
+    margin-right: 520px;
+    border-color: rgb(0, 32, 96) rgb(255, 102, 0);
+}
+</style>
+</head>
+<body>
+
+<p class="head">
+Assets
+</p>
+
+</body>
+</html>
+
+
 
 <html>
 <head>
@@ -51,9 +101,36 @@ ul.a {
 </body>
 </html>
 
+
+
 <br/>
 
-#### <span style="color:rgb(0, 32, 96);">PROFESSIONAL EXPERIENCE
+
+
+<html>
+<head>
+<style>
+p.head {
+	text-align: right;
+    font-variant: small-caps;
+    font-size: 26px;
+    font-weight: bold;
+    border-style: hidden hidden solid solid;
+    margin-right: 520px;
+    border-color: rgb(0, 32, 96) rgb(255, 102, 0);
+}
+</style>
+</head>
+<body>
+
+<p class="head">
+Professional Experience
+</p>
+
+</body>
+</html>
+
+
 
 <html>
 <head>
@@ -123,9 +200,36 @@ ul.c {
 </body>
 </html>
 
+
+
 <br/>
 
-#### <span style="color:rgb(0, 32, 96);">EDUCATION
+
+
+<html>
+<head>
+<style>
+p.head {
+	text-align: right;
+    font-variant: small-caps;
+    font-size: 26px;
+    font-weight: bold;
+    border-style: hidden hidden solid solid;
+    margin-right: 520px;
+    border-color: rgb(0, 32, 96) rgb(255, 102, 0);
+}
+</style>
+</head>
+<body>
+
+<p class="head">
+Education
+</p>
+
+</body>
+</html>
+
+
 
 <html>
 <head>
@@ -150,9 +254,35 @@ ul.a {
 </body>
 </html>
 
+
+
 <br/>
 
-#### <span style="color:rgb(0, 32, 96);">ADDITIONAL TRAINING
+
+
+<html>
+<head>
+<style>
+p.head {
+	text-align: right;
+    font-variant: small-caps;
+    font-size: 26px;
+    font-weight: bold;
+    border-style: hidden hidden solid solid;
+    margin-right: 520px;
+    border-color: rgb(0, 32, 96) rgb(255, 102, 0);
+}
+</style>
+</head>
+<body>
+
+<p class="head">
+Additional Training
+</p>
+
+</body>
+</html>
+
 
 
 <html>
@@ -201,9 +331,36 @@ ul.b {
 </body>
 </html>
 
+
+
 <br/>
 
-#### <span style="color:rgb(0, 32, 96);">PERSONAL SKILLS
+
+
+<html>
+<head>
+<style>
+p.head {
+	text-align: right;
+    font-variant: small-caps;
+    font-size: 26px;
+    font-weight: bold;
+    border-style: hidden hidden solid solid;
+    margin-right: 520px;
+    border-color: rgb(0, 32, 96) rgb(255, 102, 0);
+}
+</style>
+</head>
+<body>
+
+<p class="head">
+Personal Skills
+</p>
+
+</body>
+</html>
+
+
 
 <html>
 <head>
@@ -251,14 +408,70 @@ ul.b {
 </body>
 </html>
 
+
+
 <br/>
 
-#### <span style="color:rgb(0, 32, 96);">INTERESTS
+
+
+<html>
+<head>
+<style>
+p.head {
+	text-align: right;
+    font-variant: small-caps;
+    font-size: 26px;
+    font-weight: bold;
+    border-style: hidden hidden solid solid;
+    margin-right: 520px;
+    border-color: rgb(0, 32, 96) rgb(255, 102, 0);
+}
+</style>
+</head>
+<body>
+
+<p class="head">
+Interests
+</p>
+
+</body>
+</html>
+
+<html>
+<p>
 member mini-soccer team; soccer coach (obtained instructor C and trainer B certificates); computer games; chess; passion for food and wine; parent committee member
+</p>
+
+
 
 <br/>
 
-#### <span style="color:rgb(0, 32, 96);">SCIENTIFIC OUTPUT
+
+
+<html>
+<head>
+<style>
+p.head {
+	text-align: right;
+    font-variant: small-caps;
+    font-size: 26px;
+    font-weight: bold;
+    border-style: hidden hidden solid solid;
+    margin-right: 520px;
+    border-color: rgb(0, 32, 96) rgb(255, 102, 0);
+}
+</style>
+</head>
+<body>
+
+<p class="head">
+Scientific Output
+</p>
+
+</body>
+</html>
+
+
 
 <html>
 <head>
@@ -375,11 +588,37 @@ applicability for monitoring the microbial diversity in food ecosystems. In prep
 </body>
 </html>
 
-<br/>
 
-#### <span style="color:rgb(0, 32, 96);">SCIENTIFIC PARTICIPATIONS
 
 <br/>
+
+
+
+
+<html>
+<head>
+<style>
+p.head {
+	text-align: right;
+    font-variant: small-caps;
+    font-size: 26px;
+    font-weight: bold;
+    border-style: hidden hidden solid solid;
+    margin-right: 520px;
+    border-color: rgb(0, 32, 96) rgb(255, 102, 0);
+}
+</style>
+</head>
+<body>
+
+<p class="head">
+Scientific Participations
+</p>
+
+</body>
+</html>
+
+
 
 <html>
 <head>
@@ -522,6 +761,9 @@ Belgium.</li>
 </body>
 </html>
 
+
+
+<br/>
 <br/>
 Last update:
-Tue, 27 Feb 2018 14:19:24 +0000
+Tue, 27 Feb 2018 15:58:06 +0000
