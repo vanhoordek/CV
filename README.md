@@ -1,5 +1,3 @@
-title: VAN HOORDE KOENRAAD - CURRICULUM VITAE
-
 <html>
 <head>
 <style>
