@@ -343,7 +343,7 @@ gastrointestinal transit tolerance of taxonomic reference strains from human ori
 of <i>Bifidobacterium</i>. Journal of Dairy Science, 90(8), 3572-3578.</li>
       <li>Masco, L., <b>Van Hoorde, K.</b>, De Brandt, E., Swings, J., Huys, G. 2006. Antimicrobial susceptibility of
 <i>Bifidobacterium strains</i> from humans, animals and probiotic products. Journal of Antimicrobial Chemotherapy,
-58(1), 85-94.
+58(1), 85-94.</li>
     </ul><br/>
   <li>Book Chapters</li>
     <ul class="b">
@@ -524,4 +524,4 @@ Belgium.</li>
 
 <br/>
 Last update:
-Tue, 27 Feb 2018 12:49:35 +0000
+Tue, 27 Feb 2018 12:54:20 +0000
