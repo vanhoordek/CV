@@ -7,7 +7,7 @@ p.head {
     font-size: 26px;
     font-weight: bold;
     border-style: hidden hidden solid solid;
-    margin-right: 570px;
+    margin-right: 650px;
     border-color: rgb(0, 32, 96) rgb(255, 102, 0);
 }
 </style>
@@ -64,7 +64,7 @@ p.head {
     font-size: 26px;
     font-weight: bold;
     border-style: hidden hidden solid solid;
-    margin-right: 570px;
+    margin-right: 650px;
     border-color: rgb(0, 32, 96) rgb(255, 102, 0);
 }
 </style>
@@ -85,6 +85,7 @@ Assets
 <style>
 ul.a {
 	list-style-type: square;
+  text-align: justify;
 }
 </style>
 </head>
@@ -116,7 +117,7 @@ p.head {
     font-size: 26px;
     font-weight: bold;
     border-style: hidden hidden solid solid;
-    margin-right: 570px;
+    margin-right: 650px;
     border-color: rgb(0, 32, 96) rgb(255, 102, 0);
 }
 </style>
@@ -137,12 +138,15 @@ Professional Experience
 <style>
 ul.a {
 	list-style-type: square;
+  text-align: justify;
 }
 ul.b {
 	list-style-type: circle;
+  text-align: justify;
 }
 ul.c {
 	list-style-type: disc;
+  text-align: justify;
 }
 </style>
 </head>
@@ -215,7 +219,7 @@ p.head {
     font-size: 26px;
     font-weight: bold;
     border-style: hidden hidden solid solid;
-    margin-right: 570px;
+    margin-right: 650px;
     border-color: rgb(0, 32, 96) rgb(255, 102, 0);
 }
 </style>
@@ -269,7 +273,7 @@ p.head {
     font-size: 26px;
     font-weight: bold;
     border-style: hidden hidden solid solid;
-    margin-right: 570px;
+    margin-right: 650px;
     border-color: rgb(0, 32, 96) rgb(255, 102, 0);
 }
 </style>
@@ -346,7 +350,7 @@ p.head {
     font-size: 26px;
     font-weight: bold;
     border-style: hidden hidden solid solid;
-    margin-right: 570px;
+    margin-right: 650px;
     border-color: rgb(0, 32, 96) rgb(255, 102, 0);
 }
 </style>
@@ -423,7 +427,7 @@ p.head {
     font-size: 26px;
     font-weight: bold;
     border-style: hidden hidden solid solid;
-    margin-right: 570px;
+    margin-right: 650px;
     border-color: rgb(0, 32, 96) rgb(255, 102, 0);
 }
 </style>
@@ -457,7 +461,7 @@ p.head {
     font-size: 26px;
     font-weight: bold;
     border-style: hidden hidden solid solid;
-    margin-right: 570px;
+    margin-right: 650px;
     border-color: rgb(0, 32, 96) rgb(255, 102, 0);
 }
 </style>
@@ -604,7 +608,7 @@ p.head {
     font-size: 26px;
     font-weight: bold;
     border-style: hidden hidden solid solid;
-    margin-right: 570px;
+    margin-right: 650px;
     border-color: rgb(0, 32, 96) rgb(255, 102, 0);
 }
 </style>
