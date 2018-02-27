@@ -379,6 +379,8 @@ applicability for monitoring the microbial diversity in food ecosystems. In prep
 
 #### <span style="color:rgb(0, 32, 96);">SCIENTIFIC PARTICIPATIONS
 
+<br/>
+
 <html>
 <head>
 <style>
@@ -522,4 +524,4 @@ Belgium.</li>
 
 <br/>
 Last update:
-Tue, 27 Feb 2018 12:43:19 +0000
+Tue, 27 Feb 2018 12:49:35 +0000
