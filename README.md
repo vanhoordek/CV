@@ -304,6 +304,7 @@ ul.b {
 
 <ul class="a">
   <li>Food risk assessment training - European Food Safety Authority (EFSA), in collaboration with AGES, BfR and EFET, Parma, Italy, 2017-2018, 6-week training</li><br/>
+  <li>Food safety regulation (module of MSc Food Safety & Risk Analysis) - University College Dublin, in collaboration with FSAI, Dublin, Ireland, 2018, 2-day course</li><br>
   <li>Nutrition and health: Food Risks - Wageningen University, the Netherlands (edX Verified Certificate), 2017</li><br/>
   <li>Advanced MALDI training course: MALDI-TOF MS for microbial identification and MALDI-TOF/TOF proteomics - Bruker Daltonik GmbH, Bremen, Germany, 2016, 6-day training </li><br/>
   <li>Leadership skills for postdocs - True Colours, Ghent, Belgium, 2016, 3-day training</li><br/>
@@ -770,4 +771,4 @@ Belgium.</li>
 <br/>
 <br/>
 Last update:
-Tue, 27 Feb 2018 18:46:09 +0000
+Wed, 28 Feb 2018 20:49:16 +0000
