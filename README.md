@@ -41,8 +41,7 @@ ul.c {
 Personal Information
 </p>
 
-![here should come my picture](https://media-exp2.licdn.com/mpr/mpr/shrinknp_200_200/AAIA_wDGAAAAAQAAAAAAAAqbAAAAJDg2OTQ5MzhlLWE5Y2YtNDY1ZC1iZDdjLWEzYWJiNWM2MmZlMQ.jpg)
-<br/>
+<img src="https://media-exp2.licdn.com/mpr/mpr/shrinknp_200_200/AAIA_wDGAAAAAQAAAAAAAAqbAAAAJDg2OTQ5MzhlLWE5Y2YtNDY1ZC1iZDdjLWEzYWJiNWM2MmZlMQ.jpg" alt="here should come my picture" style="width:210px;height:210px;">
 
 <address>
 <table>
@@ -485,4 +484,4 @@ Belgium.</li>
 <br/>
 <br/>
 Last update:
-Fri, 02 Mar 2018 14:41:20 +0000
+Fri, 02 Mar 2018 14:49:52 +0000
