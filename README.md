@@ -52,7 +52,6 @@ Personal Information
   </tr>
 </table>
 </address>
-</p>
 
 <br/>
 
@@ -486,4 +485,4 @@ Belgium.</li>
 <br/>
 <br/>
 Last update:
-Fri, 02 Mar 2018 14:38:02 +0000
+Fri, 02 Mar 2018 14:41:20 +0000
