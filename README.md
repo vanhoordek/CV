@@ -12,6 +12,9 @@ p.head {
   margin-right: 650px;
   border-color: rgb(0, 32, 96) rgb(255, 102, 0);
 }
+p.playfair {
+	font-family: "Playfair Display";
+}
 address {
 	font-family: "Playfair Display, sans-serif";
 	font-style: normal;
@@ -233,7 +236,7 @@ Personal Skills
 Interests
 </p>
 
-<p>
+<p class="playfair">
 member mini-soccer team; soccer coach (obtained instructor C and trainer B certificates); computer games; chess; passion for food and wine; parent committee member
 </p>
 
@@ -484,4 +487,4 @@ Belgium.</li>
 <br/>
 <br/>
 Last update:
-Fri, 02 Mar 2018 14:49:52 +0000
+Fri, 02 Mar 2018 14:58:24 +0000
