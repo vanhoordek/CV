@@ -41,11 +41,12 @@ ul.c {
 Personal Information
 </p>
 
-
+<p>
 ![here should come my picture](https://media-exp2.licdn.com/mpr/mpr/shrinknp_200_200/AAIA_wDGAAAAAQAAAAAAAAqbAAAAJDg2OTQ5MzhlLWE5Y2YtNDY1ZC1iZDdjLWEzYWJiNWM2MmZlMQ.jpg)
+</p>
 <br/>
 
-
+<p>
 <address>
 <table>
 	<tr>
@@ -54,7 +55,7 @@ Personal Information
   </tr>
 </table>
 </address>
-
+</p>
 
 <br/>
 
@@ -488,4 +489,4 @@ Belgium.</li>
 <br/>
 <br/>
 Last update:
-Fri, 02 Mar 2018 14:03:08 +0000
+Fri, 02 Mar 2018 14:10:04 +0000
