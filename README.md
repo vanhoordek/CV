@@ -92,11 +92,16 @@ ul.a {
 <body>
 
 <ul class="a">
-  <li>The completion of my Ph.D. and current post-doc position not only allowed me to further develop and improve my microbiology related theoretical knowledge and practical skills therein, but also to stay up to date with the developments in state-of-the-art technologies.</li><br/>
-  <li>I enjoy being part of and actively contribute to joint projects, but I'm also self-reliant, e.g. in the design, planning and execution of experiments, and I'm not afraid to take initiative.</li><br/>
+  <li>The completion of my Ph.D. and current post-doc position not only allowed me to further develop
+		and improve my microbiology related theoretical knowledge and practical skills therein, but also
+		to stay up to date with the developments in state-of-the-art technologies.</li><br/>
+  <li>I enjoy being part of and actively contribute to joint projects, but I'm also self-reliant,
+		e.g. in the design, planning and execution of experiments, and I'm not afraid to take initiative.</li><br/>
   <li>I'm very good at motivating and transferring my drive and passion for science onto other people.</li><br/>
-  <li>Quality minded, accurate and problem-solving. In this context, I also like to engage myself in data-analysis and precision work tasks.</li><br/>
-  <li>I'm very flexible, and a highly motivated and curious person always willing to learn and apprehend new things in order to complete projects adequately and timely.</li>
+  <li>Quality minded, accurate and problem-solving. In this context, I also like to engage myself
+		in data-analysis and precision work tasks.</li><br/>
+  <li>I'm very flexible, and a highly motivated and curious person always willing to learn and apprehend new things
+		in order to complete projects adequately and timely.</li>
 </ul>
 
 </body>
@@ -141,10 +146,12 @@ ul.a {
   text-align: justify;
 }
 ul.b {
+	margin-left: 30px;
 	list-style-type: circle;
   text-align: justify;
 }
 ul.c {
+	margin-left: 30px;
 	list-style-type: disc;
   text-align: justify;
 }
@@ -153,15 +160,15 @@ ul.c {
 <body>
 
 <ul class="a">
-  <li>Visiting Scientist (EFSA fellowship), Centre for Food Safety, University College Dublin, Ireland, 2017-present<br/>
+  <li>Visiting Scientist (EFSA Fellowship), Centre for Food Safety, University College Dublin, Ireland, 2017-present<br/>
   Tasks:</li>
     <ul class="b">
-      <li>Use of next generation sequencing techniques and data</li>
+      <li>Implementing next generation sequencing techniques and data</li>
         <ul class="c">
-          <li>to characterize and track microbial pathogens in a food processing facility</li>
-          <li>as tools to identify contamination sources and transmission routes of pathogens along a process facility</li>
+          <li>in support of microbial food risk assessment and food safety</li>
+					<li>to characterize and track microbial pathogens in a food processing facility</li>
+          <li>as tools to identify contamination sources and transmission routes of pathogens along the farm to fork chain</li>
         </ul>
-      <li>Use of advanced laboratory and bio-informatics techniques within the concept of the food risk assessment framework</li>
     </ul>
 <br/>
   <li>Dr. Assistant, Faculty of Bioscience Engineering, Ghent University, 2009-present<br/>
@@ -296,6 +303,7 @@ ul.a {
 	list-style-type: square;
 }
 ul.b {
+	margin-left: 30px;
 	list-style-type: circle;
 }
 </style>
@@ -374,6 +382,7 @@ ul.a {
 	list-style-type: square;
 }
 ul.b {
+	margin-left: 30px;
 	list-style-type: circle;
 }
 </style>
@@ -406,7 +415,7 @@ ul.b {
     </ul><br/>
   <li>Leadership skills</li>
     <ul class="b">
-      <li>Supervising and managing of multiple persons at different 'professional' levels, i.e. lab technicians, bachelor, master and/or Ph.D students, depending on the type and number of running projects I'm involved with (currently 9 bachelor students, 2 master students, 3 Erasmus students (Italy) and 1 lab technician)</li>
+      <li>Supervising and managing multiple persons at different 'professional' levels; currently 9 bachelor students, 2 master students, 3 Erasmus students (Italy) and 1 lab technician working on several different projects.</li>
     </ul>
 </ul>
 
@@ -485,6 +494,7 @@ ul.a {
 	list-style-type: square;
 }
 ul.b {
+	margin-left: 30px;
 	list-style-type: circle;
 }
 </style>
@@ -771,4 +781,4 @@ Belgium.</li>
 <br/>
 <br/>
 Last update:
-Wed, 28 Feb 2018 20:49:16 +0000
+Fri, 02 Mar 2018 11:39:45 +0000
