@@ -4,7 +4,7 @@
 <style>
 p.head {
 	text-align: right;
-	font-family: "PT Sans, sans-serif"
+	font-family: "PT Sans, sans-serif";
 	font-variant: small-caps;
   font-size: 26px;
   font-weight: bold;
@@ -13,23 +13,23 @@ p.head {
   border-color: rgb(0, 32, 96) rgb(255, 102, 0);
 }
 address {
-	font-family: "Playfair Display, sans-serif"
+	font-family: "Playfair Display, sans-serif";
 	font-style: normal;
 }
 ul.a {
-	font-family: "Playfair Display, sans-serif"
+	font-family: "Playfair Display, sans-serif";
 	list-style-type: square;
   text-align: justify;
 }
 ul.b {
 	margin-left: 30px;
-	font-family: "Playfair Display, sans-serif"
+	font-family: "Playfair Display, sans-serif";
 	list-style-type: circle;
   text-align: justify;
 }
 ul.c {
 	margin-left: 30px;
-	font-family: "Playfair Display, sans-serif"
+	font-family: "Playfair Display, sans-serif";
 	list-style-type: disc;
   text-align: justify;
 }
@@ -41,12 +41,9 @@ ul.c {
 Personal Information
 </p>
 
-<p>
 ![here should come my picture](https://media-exp2.licdn.com/mpr/mpr/shrinknp_200_200/AAIA_wDGAAAAAQAAAAAAAAqbAAAAJDg2OTQ5MzhlLWE5Y2YtNDY1ZC1iZDdjLWEzYWJiNWM2MmZlMQ.jpg)
-</p>
 <br/>
 
-<p>
 <address>
 <table>
 	<tr>
