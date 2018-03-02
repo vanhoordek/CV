@@ -44,8 +44,7 @@ ul.c {
 Personal Information
 </p>
 
-<img src="https://media-exp2.licdn.com/mpr/mpr/shrinknp_200_200/AAIA_wDGAAAAAQAAAAAAAAqbAAAAJDg2OTQ5MzhlLWE5Y2YtNDY1ZC1iZDdjLWEzYWJiNWM2MmZlMQ.jpg" alt="here should come my picture" style="width:210px;height:210px;">
-<img src="https://github.com/vanhoordek/CV/blob/master/images/profile.picture.jpg" alt="here should come my picture" style="width:210px;height:210px;">
+<img src="https://raw.githubusercontent.com/vanhoordek/CV/master/images/profile.picture.jpg" alt="here should come my picture" style="width:210px;height:210px;">
 
 <address>
 <table>
@@ -488,4 +487,4 @@ Belgium.</li>
 <br/>
 <br/>
 Last update:
-Fri, 02 Mar 2018 20:05:22 +0000
+Fri, 02 Mar 2018 21:34:06 +0000
