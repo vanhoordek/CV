@@ -1,14 +1,37 @@
 <html>
 <head>
+<link href="https://fonts.googleapis.com/css? family=PS+Sans|Playfair+Display" rel="stylesheet">
 <style>
 p.head {
 	text-align: right;
-    font-variant: small-caps;
-    font-size: 26px;
-    font-weight: bold;
-    border-style: hidden hidden solid solid;
-    margin-right: 650px;
-    border-color: rgb(0, 32, 96) rgb(255, 102, 0);
+	font-family: "PT Sans, sans-serif"
+	font-variant: small-caps;
+  font-size: 26px;
+  font-weight: bold;
+  border-style: hidden hidden solid solid;
+  margin-right: 650px;
+  border-color: rgb(0, 32, 96) rgb(255, 102, 0);
+}
+address {
+	font-family: "Playfair Display, sans-serif"
+	font-style: normal;
+}
+ul.a {
+	font-family: "Playfair Display, sans-serif"
+	list-style-type: square;
+  text-align: justify;
+}
+ul.b {
+	margin-left: 30px;
+	font-family: "Playfair Display, sans-serif"
+	list-style-type: circle;
+  text-align: justify;
+}
+ul.c {
+	margin-left: 30px;
+	font-family: "Playfair Display, sans-serif"
+	list-style-type: disc;
+  text-align: justify;
 }
 </style>
 </head>
@@ -17,25 +40,11 @@ p.head {
 <p class="head">
 Personal Information
 </p>
-</body>
-</html>
-
 
 
 ![here should come my picture](https://media-exp2.licdn.com/mpr/mpr/shrinknp_200_200/AAIA_wDGAAAAAQAAAAAAAAqbAAAAJDg2OTQ5MzhlLWE5Y2YtNDY1ZC1iZDdjLWEzYWJiNWM2MmZlMQ.jpg)
 <br/>
 
-
-
-<html>
-<head>
-<style>
-address {
-	font-style: normal;
-}
-</style>
-</head>
-<body>
 
 <address>
 <table>
@@ -46,50 +55,14 @@ address {
 </table>
 </address>
 
-</body>
-</html>
-
-
 
 <br/>
 
-
-
-<html>
-<head>
-<style>
-p.head {
-	text-align: right;
-    font-variant: small-caps;
-    font-size: 26px;
-    font-weight: bold;
-    border-style: hidden hidden solid solid;
-    margin-right: 650px;
-    border-color: rgb(0, 32, 96) rgb(255, 102, 0);
-}
-</style>
-</head>
-<body>
 
 <p class="head">
 Assets
 </p>
 
-</body>
-</html>
-
-
-
-<html>
-<head>
-<style>
-ul.a {
-	list-style-type: square;
-  text-align: justify;
-}
-</style>
-</head>
-<body>
 
 <ul class="a">
   <li>The completion of my Ph.D. and current post-doc position not only allowed me to further develop
@@ -104,60 +77,14 @@ ul.a {
 		in order to complete projects adequately and timely.</li>
 </ul>
 
-</body>
-</html>
-
-
 
 <br/>
 
-
-
-<html>
-<head>
-<style>
-p.head {
-	text-align: right;
-    font-variant: small-caps;
-    font-size: 26px;
-    font-weight: bold;
-    border-style: hidden hidden solid solid;
-    margin-right: 650px;
-    border-color: rgb(0, 32, 96) rgb(255, 102, 0);
-}
-</style>
-</head>
-<body>
 
 <p class="head">
 Professional Experience
 </p>
 
-</body>
-</html>
-
-
-
-<html>
-<head>
-<style>
-ul.a {
-	list-style-type: square;
-  text-align: justify;
-}
-ul.b {
-	margin-left: 30px;
-	list-style-type: circle;
-  text-align: justify;
-}
-ul.c {
-	margin-left: 30px;
-	list-style-type: disc;
-  text-align: justify;
-}
-</style>
-</head>
-<body>
 
 <ul class="a">
   <li>Visiting Scientist (EFSA Fellowship), Centre for Food Safety, University College Dublin, Ireland, 2017-present<br/>
@@ -208,49 +135,13 @@ ul.c {
     </ul>
 </ul>
 
-</body>
-</html>
-
-
 
 <br/>
 
 
-
-<html>
-<head>
-<style>
-p.head {
-	text-align: right;
-    font-variant: small-caps;
-    font-size: 26px;
-    font-weight: bold;
-    border-style: hidden hidden solid solid;
-    margin-right: 650px;
-    border-color: rgb(0, 32, 96) rgb(255, 102, 0);
-}
-</style>
-</head>
-<body>
-
 <p class="head">
 Education
 </p>
-
-</body>
-</html>
-
-
-
-<html>
-<head>
-<style>
-ul.a {
-	list-style-type: square;
-}
-</style>
-</head>
-<body>
 
 <ul class="a">
   <li>Master in Biotechnology, graduated with honor, Ghent University, 2004<br/>
@@ -262,53 +153,13 @@ ul.a {
   <li>Bachelor in Biology, graduated with honor, Ghent University, 2001</li>
 </ul>
 
-</body>
-</html>
-
-
 
 <br/>
 
 
-
-<html>
-<head>
-<style>
-p.head {
-	text-align: right;
-    font-variant: small-caps;
-    font-size: 26px;
-    font-weight: bold;
-    border-style: hidden hidden solid solid;
-    margin-right: 650px;
-    border-color: rgb(0, 32, 96) rgb(255, 102, 0);
-}
-</style>
-</head>
-<body>
-
 <p class="head">
 Additional Training
 </p>
-
-</body>
-</html>
-
-
-
-<html>
-<head>
-<style>
-ul.a {
-	list-style-type: square;
-}
-ul.b {
-	margin-left: 30px;
-	list-style-type: circle;
-}
-</style>
-</head>
-<body>
 
 <ul class="a">
   <li>Food risk assessment training - European Food Safety Authority (EFSA), in collaboration with AGES, BfR and EFET, Parma, Italy, 2017-2018, 6-week training</li><br/>
@@ -341,53 +192,13 @@ ul.b {
     </ul>
 </ul>
 
-</body>
-</html>
-
-
 
 <br/>
 
 
-
-<html>
-<head>
-<style>
-p.head {
-	text-align: right;
-    font-variant: small-caps;
-    font-size: 26px;
-    font-weight: bold;
-    border-style: hidden hidden solid solid;
-    margin-right: 650px;
-    border-color: rgb(0, 32, 96) rgb(255, 102, 0);
-}
-</style>
-</head>
-<body>
-
 <p class="head">
 Personal Skills
 </p>
-
-</body>
-</html>
-
-
-
-<html>
-<head>
-<style>
-ul.a {
-	list-style-type: square;
-}
-ul.b {
-	margin-left: 30px;
-	list-style-type: circle;
-}
-</style>
-</head>
-<body>
 
 <ul class="a">
   <li>Languages</li>
@@ -419,87 +230,24 @@ ul.b {
     </ul>
 </ul>
 
-</body>
-</html>
-
-
 
 <br/>
-
-
-
-<html>
-<head>
-<style>
-p.head {
-	text-align: right;
-    font-variant: small-caps;
-    font-size: 26px;
-    font-weight: bold;
-    border-style: hidden hidden solid solid;
-    margin-right: 650px;
-    border-color: rgb(0, 32, 96) rgb(255, 102, 0);
-}
-</style>
-</head>
-<body>
 
 <p class="head">
 Interests
 </p>
 
-</body>
-</html>
-
-<html>
 <p>
 member mini-soccer team; soccer coach (obtained instructor C and trainer B certificates); computer games; chess; passion for food and wine; parent committee member
 </p>
 
 
-
 <br/>
 
-
-
-<html>
-<head>
-<style>
-p.head {
-	text-align: right;
-    font-variant: small-caps;
-    font-size: 26px;
-    font-weight: bold;
-    border-style: hidden hidden solid solid;
-    margin-right: 650px;
-    border-color: rgb(0, 32, 96) rgb(255, 102, 0);
-}
-</style>
-</head>
-<body>
 
 <p class="head">
 Scientific Output
 </p>
-
-</body>
-</html>
-
-
-
-<html>
-<head>
-<style>
-ul.a {
-	list-style-type: square;
-}
-ul.b {
-	margin-left: 30px;
-	list-style-type: circle;
-}
-</style>
-</head>
-<body>
 
 <ul class="a">
   <li>A1 publications</li>
@@ -600,53 +348,12 @@ applicability for monitoring the microbial diversity in food ecosystems. In prep
     </ul><br/>
 </ul>
 
-</body>
-</html>
-
-
 
 <br/>
-
-
-
-
-<html>
-<head>
-<style>
-p.head {
-	text-align: right;
-    font-variant: small-caps;
-    font-size: 26px;
-    font-weight: bold;
-    border-style: hidden hidden solid solid;
-    margin-right: 650px;
-    border-color: rgb(0, 32, 96) rgb(255, 102, 0);
-}
-</style>
-</head>
-<body>
 
 <p class="head">
 Scientific Participations
 </p>
-
-</body>
-</html>
-
-
-
-<html>
-<head>
-<style>
-ul.a {
-	list-style-type: square;
-}
-ul.b {
-	list-style-type: circle;
-}
-</style>
-</head>
-<body>
 
 <ul class="a">
   <li>Oral Communications</li>
