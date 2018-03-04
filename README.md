@@ -214,13 +214,13 @@ Personal Skills
       <li>Graphic tools (Photoshop, CorelDraw): I use graphic software tools for designing and editing illustrations based on graphs, tables, and any other data to be visualized in publications and presentations.</li>
       <li>Database tools (MS-Access): A basic knowledge of MS-Access allows me to create relational databases queries and reports. In addition, I use many other database-driven tools to store and query scientific and other related data.</li>
       <li>Statistics and bio-informatics software</li>
-      <li>Programming languages (R, Python, Linux, HTML)</li>
+      <li>Programming languages (basics of R, Python, Linux, HTML)</li>
     </ul><br/>
   <li>Communication skills</li>
     <ul class="b">
       <li>Presenting research at (international) conferences</li>
       <li>Teaching (bachelor and master level) ex cathedra and lab exercises</li>
-      <li>Working together with people of different professional level and of different (cultural) origin</li>
+      <li>Working together with people of different professional levels and of different (cultural) origin or background</li>
       <li>I'm very good at motivating and transferring my drive and passion for science to other people</li>
     </ul><br/>
   <li>Leadership skills</li>
@@ -487,4 +487,4 @@ Belgium.</li>
 <br/>
 <br/>
 Last update:
-Fri, 02 Mar 2018 21:34:06 +0000
+Sun, 04 Mar 2018 09:51:35 +0000
