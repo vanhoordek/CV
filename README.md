@@ -256,7 +256,7 @@ Scientific Output
       <li>Pino, A., <b>Van Hoorde, K.</b>, Pitino, I., Russo, N., Carpino, S., Caggia, C., Randazzo, C. L. 2017. Survival of
 potential probiotic lactobacilli used as adjunct cultures on Pecorino Siciliano cheese ripening and passage through
 the gastrointestinal tract of healthy volunteers. International Journal of Food Microbiology, 252, 42-52.<br/>
-<a href="https://doi.org/10.1016/j.ijfoodmicro.2017.04.012"> 10.1016/j.ijfoodmicro.2017.04.012</a></li>
+<a href="https://doi.org/10.1016/j.ijfoodmicro.2017.04.012"> doi.org/10.1016/j.ijfoodmicro.2017.04.012</a></li>
       <li>Zavala, L., Golowczyc, M., <b>Van Hoorde, K.</b>, Medrano, M., Huys, G., Vandamme, P., Abraham, A. G. 2016.
 Selected <i>Lactobacillus</i> strains isolated from sugary and milk kefir reduce <i>Salmonella</i> infection of epithelial cells in
 vitro. Beneficial Microbes, 7(4), 585-595.<br/>
@@ -516,4 +516,4 @@ strains from humans, animals and probiotic products. Doctoraatssymposium Faculte
 <br/>
 <br/>
 Last update:
-Fri, 23 Mar 2018 17:10:58 +0000
+Fri, 23 Mar 2018 17:41:31 +0000
