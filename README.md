@@ -256,7 +256,7 @@ Scientific Output
       <li>Pino, A., <b>Van Hoorde, K.</b>, Pitino, I., Russo, N., Carpino, S., Caggia, C., Randazzo, C. L. 2017. Survival of
 potential probiotic lactobacilli used as adjunct cultures on Pecorino Siciliano cheese ripening and passage through
 the gastrointestinal tract of healthy volunteers. International Journal of Food Microbiology, 252, 42-52.<br/>
-<a href="https://doi.org/10.1016/j.ijfoodmicro.2017.04.012"> DOI: 10.1016/j.ijfoodmicro.2017.04.012</a></li>
+<a href="https://doi.org/10.1016/j.ijfoodmicro.2017.04.012"> 10.1016/j.ijfoodmicro.2017.04.012</a></li>
       <li>Zavala, L., Golowczyc, M., <b>Van Hoorde, K.</b>, Medrano, M., Huys, G., Vandamme, P., Abraham, A. G. 2016.
 Selected <i>Lactobacillus</i> strains isolated from sugary and milk kefir reduce <i>Salmonella</i> infection of epithelial cells in
 vitro. Beneficial Microbes, 7(4), 585-595.<br/>
@@ -356,8 +356,7 @@ Functional Foods, Eds. Rai, V. R., and Bai, J. A. CRC Press/Taylor & Francis Gro
 <a href="https://doi.org/10.1201/b17912"> doi.org/10.1201/b17912</a></li>
       <li><b>Van Hoorde, K.</b>, Van Landschoot, A., Vandamme, P., Huys, G. 2013. Molecular approaches to study cheese
 microbiota: Principles and applications. In: Advances in Food Safety and Food Microbiology, Eds. Randazzo,
-C. L., Caggia, C., Neviani, E. Nova Science Publishers, New York, US. pp. 149-166.</li><br/>
-<a href=""> doi</a></li>
+C. L., Caggia, C., Neviani, E. Nova Science Publishers, New York, US. pp. 149-166.</li>
       <li><b>Van Hoorde, K.</b>, Van Landschoot, A. 2013. Gouda-type cheeses. In: Handbook of Cheese in Health:
 Production, Nutrition and Medical Sciences, Eds. Preedy, V. R., Watson, R. R., Patel, V. B. Wageningen Academic
 Publishers, Wageningen, The Netherlands. pp. 227-236.</li><br/>
@@ -517,4 +516,4 @@ strains from humans, animals and probiotic products. Doctoraatssymposium Faculte
 <br/>
 <br/>
 Last update:
-Fri, 23 Mar 2018 17:05:54 +0000
+Fri, 23 Mar 2018 17:08:16 +0000
