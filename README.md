@@ -255,86 +255,113 @@ Scientific Output
     <ul class="b">
       <li>Pino, A., <b>Van Hoorde, K.</b>, Pitino, I., Russo, N., Carpino, S., Caggia, C., Randazzo, C. L. 2017. Survival of
 potential probiotic lactobacilli used as adjunct cultures on Pecorino Siciliano cheese ripening and passage through
-the gastrointestinal tract of healthy volunteers. International Journal of Food Microbiology, 252, 42-52.</li>
+the gastrointestinal tract of healthy volunteers. International Journal of Food Microbiology, 252, 42-52.<br/>
+<a href="https://doi.org/10.1016/j.ijfoodmicro.2017.04.012"> DOI: 10.1016/j.ijfoodmicro.2017.04.012</a></li>
       <li>Zavala, L., Golowczyc, M., <b>Van Hoorde, K.</b>, Medrano, M., Huys, G., Vandamme, P., Abraham, A. G. 2016.
 Selected <i>Lactobacillus</i> strains isolated from sugary and milk kefir reduce <i>Salmonella</i> infection of epithelial cells in
-vitro. Beneficial Microbes, 7(4), 585-595.</li>
-      <li>Nguyen, T. L. D., <b>Van Hoorde, K.</b>, Cnockaert, M., Le, B. T., Vandamme, P. 2015. Studying on bacterial
+vitro. Beneficial Microbes, 7(4), 585-595.<br/>
+<a href="https://doi.org/10.3920/BM2015.0196"> doi.org/10.3920/BM2015.0196</a></li>
+      <li>Nguyen, T. L. D., <b>Van Hoorde, K.</b>, Cnockaert, M., Le, B. T., Vandamme, P. 2015. Study of bacterial
 communities in fermented foods by using polymerase chain reaction denaturing gradient gel electrophoresis
-(PCR-DGGE). Journal of Science and Technology, 53(2), 157-168.</li>
+(PCR-DGGE). Vietnam Journal of Science and Technology, 53(2), 157-168.<br/>
+<a href="https://doi.org/10.15625/0866-708X/53/2/5005"> doi.org/10.15625/0866-708X/53/2/5005</a></li>
       <li>Hamet, M. F., Londero, A., Medrano, M., Vercammen, E., <b>Van Hoorde, K.</b>, Garrote, G. L., Huys, G.,
 Vandamme, P., Abraham, A. G. 2013. Application of culture-independent and culture-dependent methods for
 the identification of <i>Lactobacillus kefiranofaciens</i> in microbial consortia present in kefir grains. Food Microbiology,
-36(2), 327-334.</li>
+36(2), 327-334.<br/>
+<a href="https://doi.org/10.1016/j.fm.2013.06.022"> doi.org/10.1016/j.fm.2013.06.022</a></li>
       <li>De Bel, A., <b>Van Hoorde, K.</b>, Vandoorslaer, K., Echadhidi, F., De Brandt, E., Ieven, M., Soetens, O., Wybo,
 I., Piérard, D., Vandamme, P. 2013. <i>Staphylococcus jettensis</i> sp. nov., a novel coagulase-negative staphylococcal
 species isolated from human clinical specimens. International Journal of Systematic and Evolutionary
-Microbiology, 63, 3250-3256.</li>
+Microbiology, 63, 3250-3256.<br/>
+<a href="https://dx.doi.org/10.1099/ijs.0.044438-0"> doi.org/10.1099/ijs.0.044438-0</a></li>
       <li>Ruyssen, T., Janssens, M., Van Gasse, B., Van Laere, D., Van der Eecken, N., De Meerleer, M., Vermeiren,
 L., <b>Van Hoorde, K.</b>, Martins, J. C., Uyttendaele, M., De Vuyst, L. 2013. Characterization of Gouda cheeses based
 on sensory, analytical and high-field 1 H NMR spectroscopy: Effect of adjunct cultures and brine composition on
-sodium-reduced Gouda cheese. International Dairy Journal, 33(2), 142-152.</li>
+sodium-reduced Gouda cheese. International Dairy Journal, 33(2), 142-152.<br/>
+<a href="https://doi.org/10.1016/j.idairyj.2013.04.009"> doi.org/10.1016/j.idairyj.2013.04.009</a></li>
       <li>Nguyen, T. L. D., Cnockaert, M., <b>Van Hoorde, K.</b>, De Brandt, E., Snauwaert, I., Snauwaert, C., Le, B. T., De
 Vuyst, L., Vandamme, P. 2013. <i>Lactobacillus porcinae</i> sp. nov. isolated from traditional Vietnamese nem chua.
-International Journal of Systematic and Evolutionary Microbiology, 63(5), 1754-1759.</li>
+International Journal of Systematic and Evolutionary Microbiology, 63(5), 1754-1759.<br/>
+<a href="https://dx.doi.org/10.1099/ijs.0.044123-0"> doi.org/10.1099/ijs.0.044123-0</a></li>
       <li>Nguyen, T. L. D., <b>Van Hoorde, K.</b>, Cnockaert, M., De Brandt, E., Aerts, M., Le, B. T., Vandamme, P. 2013.
 A description of the lactic acid bacteria microbiota associated with the production of traditional fermented
-vegetables in Vietnam. International Journal of Food Microbiology, 163(1), 19-27.</li>
+vegetables in Vietnam. International Journal of Food Microbiology, 163(1), 19-27.<br/>
+<a href="https://doi.org/10.1016/j.ijfoodmicro.2013.01.024"> doi.org/10.1016/j.ijfoodmicro.2013.01.024</a></li>
       <li>Nguyen, T. L. D., <b>Van Hoorde, K.</b>, Cnockaert, M., De Brandt, E., De Bruyne, K., Le, B. T., Vandamme, P.
 2013. A Culture-dependent and -independent approach for the identification of lactic acid bacteria associated
 with the production of nem chua, a Vietnamese fermented meat product. Food Research International, 50(1),
-232-240.</li>
+232-240.<br/>
+<a href="https://doi.org/10.1016/j.foodres.2012.09.029"> doi.org/10.1016/j.foodres.2012.09.029</a></li>
       <li>Nguyen, T.L.D., <b>Van Hoorde, K.</b>, Cnockaert, M., De Brandt, E., Aerts, M., Le, B.T., Vandamme, P. 2012.
 Validation of MALDI-TOF MS for rapid classification and identification of lactic acid bacteria, with a focus on
-isolates from traditional fermented food in Northern Vietnam. Letters in Applied Microbiology, 55(4), 265-273.</li>
+isolates from traditional fermented food in Northern Vietnam. Letters in Applied Microbiology, 55(4), 265-273.<br/>
+<a href="https://doi.org/10.1111/j.1472-765X.2012.03287.x"> doi.org/10.1111/j.1472-765X.2012.03287.x</a></li>
       <li>Hoefman, S., <b>Van Hoorde, K.</b>, Boon, N., Vandamme, P., De Vos, P., Heylen, K. 2012. Survival or revival:
 long-term preservation induces a reversible viable but non-culturable state in methane-oxidizing bacteria. PLoS
-ONE 7(4), e34196..</li>
+ONE 7(4), e34196..<br/>
+<a href="https://doi.org/10.1371/journal.pone.0034196"> doi.org/10.1371/journal.pone.0034196</a></li>
       <li>Cnudde, C., Willems, A., <b>Van Hoorde, K.</b>, Vyverman, W., Moens, T., De Troch, M. 2011. Effect of food
 preservation on the grazing behavior and on the gut flora of the harpacticoid copepod <i>Paramphiascella fulvofasciata</i>.
-Journal of Experimental Marine Biology and Ecology, 407(1), 63-69.</li>
+Journal of Experimental Marine Biology and Ecology, 407(1), 63-69.<br/>
+<a href="https://doi.org/10.1016/j.jembe.2011.07.007"> doi.org/10.1016/j.jembe.2011.07.007</a></li>
       <li>De Jonghe, V., Coorevits, A., <b>Van Hoorde, K.</b>, Messens, W., Van Landschoot, A., De Vos, P., Heyndrickx,
 M. 2011. Influence of storage conditions on the growth of <i>Pseudomonas</i> species in refrigerated raw milk. Applied
-and Environmental Microbiology, 77(2), 460-470.</li>
+and Environmental Microbiology, 77(2), 460-470.<br/>
+<a href="https://doi.org/10.1128/AEM.00521-10"> doi.org/10.1128/AEM.00521-10</a></li>
       <li>De Meyer, S. E., <b>Van Hoorde, K.</b>, Vekeman, B., Braeckman, T., Willems, A. 2011. Genetic diversity of
 rhizobia associated with indigenous legumes in different regions of Flanders (Belgium). Soil Biology and
-Biochemistry, 43(12), 2384-2396.</li>
+Biochemistry, 43(12), 2384-2396.<br/>
+<a href="https://doi.org/10.1016/j.soilbio.2011.08.005"> doi.org/10.1016/j.soilbio.2011.08.005</a></li>
       <li>Ghyselinck, J., <b>Van Hoorde, K.</b>, Hoste, B., Heylen, K., De Vos, P. 2011. Evaluation of MALDI-TOF MS as
-a tool for high-throughput dereplication. Journal of Microbiological Methods, 86(3), 327-336.</li>
+a tool for high-throughput dereplication. Journal of Microbiological Methods, 86(3), 327-336.<br/>
+<a href="https://doi.org/10.1016/j.mimet.2011.06.004"> doi.org/10.1016/j.mimet.2011.06.004</a></li>
       <li>Zaluga, J., Heylen, K., <b>Van Hoorde, K.</b>, Hoste, B., Van Vaerenbergh, J., Maes, M., De Vos, P. 2011. GyrB
 sequence analysis and MALDI-TOF MS as identification tools for plant pathogenic <i>Clavibacter</i>. Systematic and
-Applied Microbiology, 34(6), 400-407.</li>
+Applied Microbiology, 34(6), 400-407.<br/>
+<a href="https://doi.org/10.1016/j.syapm.2011.05.001"> doi.org/10.1016/j.syapm.2011.05.001</a></li>
       <li><b>Van Hoorde, K.</b>, Heyndrickx, M., Vandamme, P., Huys, G. 2010. Influence of pasteurization, brining
 conditions and production environment on the microbiota of artisan Gouda-type cheeses. Food Microbiology,
-27(3), 425-433.</li>
+27(3), 425-433.<br/>
+<a href="https://doi.org/10.1016/j.fm.2009.12.001"> doi.org/10.1016/j.fm.2009.12.001</a></li>
       <li><b>Van Hoorde, K.</b>, Van Leuven, I., Dirinck, P., Heyndrickx, M., Coudijzer, K., Vandamme, P., Huys, G. 2010.
 Selection, application and monitoring of <i>Lactobacillus paracasei</i> strains as adjunct cultures in the production of
-Gouda-type cheeses. International Journal of Food Microbiology, 144(2), 226-235.</li>
+Gouda-type cheeses. International Journal of Food Microbiology, 144(2), 226-235.<br/>
+<a href="https://doi.org/10.1016/j.ijfoodmicro.2010.05.007"> doi.org/10.1016/j.ijfoodmicro.2010.05.007</a></li>
       <li><b>Van Hoorde, K.</b>, Vandamme, P., Huys, G. 2008. Molecular identification and typing of lactic acid bacteria
 associated with the production of two artisanal raw milk cheeses. Dairy Science and Technology, 88(4-5), 445-
-455.</li>
+455.<br/>
+<a href="https://doi.org/10.1051/dst:2008011"> doi.org/10.1051/dst:2008011</a></li>
       <li><b>Van Hoorde, K.</b>, Verstraete, T., Vandamme, P., Huys, G. 2008. Diversity of lactic acid bacteria in two
-Flemish artisan raw milk Gouda-type cheeses. Food Microbiology, 25(7), 929-935.</li>
+Flemish artisan raw milk Gouda-type cheeses. Food Microbiology, 25(7), 929-935.<br/>
+<a href="https://doi.org/10.1016/j.fm.2008.06.006"> doi.org/10.1016/j.fm.2008.06.006</a></li>
       <li>Masco, L., Crockaert, C., <b>Van Hoorde, K.</b>, Swings, J., Huys, G. 2007. In vitro assessment of the
 gastrointestinal transit tolerance of taxonomic reference strains from human origin and probiotic product isolates
-of <i>Bifidobacterium</i>. Journal of Dairy Science, 90(8), 3572-3578.</li>
+of <i>Bifidobacterium</i>. Journal of Dairy Science, 90(8), 3572-3578.<br/>
+<a href="https://doi.org/10.3168/jds.2006-548"> doi.org/10.3168/jds.2006-548</a></li>
       <li>Masco, L., <b>Van Hoorde, K.</b>, De Brandt, E., Swings, J., Huys, G. 2006. Antimicrobial susceptibility of
 <i>Bifidobacterium strains</i> from humans, animals and probiotic products. Journal of Antimicrobial Chemotherapy,
-58(1), 85-94.</li>
+58(1), 85-94.<br/>
+<a href="https://doi.org/10.1093/jac/dkl197"> doi.org/10.1093/jac/dkl197</a></li>
     </ul><br/>
   <li>Book Chapters</li>
     <ul class="b">
       <li>Randazzo, C. L., Pino, A., <b>Van Hoorde, K.</b>, Caggia, C. 2017. LAB species and strain identification. In:
-Microbiology in Dairy Processing: Challenges and Opportunities, Ed. Poltronieri, P. John Wiley & Sons Ltd and the Institute of Food Technologists, Chichester, UK. pp. 406-440.</li>
+Microbiology in Dairy Processing: Challenges and Opportunities, Ed. Poltronieri, P. John Wiley & Sons Ltd and the Institute of Food Technologists,
+Chichester, UK. pp. 406-440.</li><br/>
+<a href="https://doi.org/10.1002/9781119115007.ch8"> doi.org/10.1002/9781119115007.ch8</a></li>
       <li><b>Van Hoorde, K.</b>, Van Landschoot, A. 2014. Application of adjunct-cultures and their influence on the
 sensory properties of hard and semi-hard cheese varieties. In: Book on Beneficial Microbes in Fermented and
-Functional Foods, Eds. Rai, V. R., and Bai, J. A. CRC Press/Taylor & Francis Group, Boca Raton, US. pp. 531-550.</li>
+Functional Foods, Eds. Rai, V. R., and Bai, J. A. CRC Press/Taylor & Francis Group, Boca Raton, US. pp. 531-550.</li><br/>
+<a href="https://doi.org/10.1201/b17912"> doi.org/10.1201/b17912</a></li>
       <li><b>Van Hoorde, K.</b>, Van Landschoot, A., Vandamme, P., Huys, G. 2013. Molecular approaches to study cheese
 microbiota: Principles and applications. In: Advances in Food Safety and Food Microbiology, Eds. Randazzo,
-C. L., Caggia, C., Neviani, E. Nova Science Publishers, New York, US. pp. 149-166.</li>
+C. L., Caggia, C., Neviani, E. Nova Science Publishers, New York, US. pp. 149-166.</li><br/>
+<a href=""> doi</a></li>
       <li><b>Van Hoorde, K.</b>, Van Landschoot, A. 2013. Gouda-type cheeses. In: Handbook of Cheese in Health:
 Production, Nutrition and Medical Sciences, Eds. Preedy, V. R., Watson, R. R., Patel, V. B. Wageningen Academic
-Publishers, Wageningen, The Netherlands. pp. 227-236.</li>
+Publishers, Wageningen, The Netherlands. pp. 227-236.</li><br/>
+<a href="https://doi.org/10.3920/978-90-8686-766-0_15"> doi.org/10.3920/978-90-8686-766-0_15</a></li>
     </ul><br/>
   <li>Forthcoming</li>
     <ul class="b">
@@ -490,4 +517,4 @@ strains from humans, animals and probiotic products. Doctoraatssymposium Faculte
 <br/>
 <br/>
 Last update:
-Fri, 23 Mar 2018 14:47:28 +0000
+Fri, 23 Mar 2018 17:05:54 +0000
