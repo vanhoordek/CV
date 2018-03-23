@@ -348,18 +348,18 @@ of <i>Bifidobacterium</i>. Journal of Dairy Science, 90(8), 3572-3578.<br/>
     <ul class="b">
       <li>Randazzo, C. L., Pino, A., <b>Van Hoorde, K.</b>, Caggia, C. 2017. LAB species and strain identification. In:
 Microbiology in Dairy Processing: Challenges and Opportunities, Ed. Poltronieri, P. John Wiley & Sons Ltd and the Institute of Food Technologists,
-Chichester, UK. pp. 406-440.</li><br/>
+Chichester, UK. pp. 406-440.<br/>
 <a href="https://doi.org/10.1002/9781119115007.ch8"> doi.org/10.1002/9781119115007.ch8</a></li>
       <li><b>Van Hoorde, K.</b>, Van Landschoot, A. 2014. Application of adjunct-cultures and their influence on the
 sensory properties of hard and semi-hard cheese varieties. In: Book on Beneficial Microbes in Fermented and
-Functional Foods, Eds. Rai, V. R., and Bai, J. A. CRC Press/Taylor & Francis Group, Boca Raton, US. pp. 531-550.</li><br/>
+Functional Foods, Eds. Rai, V. R., and Bai, J. A. CRC Press/Taylor & Francis Group, Boca Raton, US. pp. 531-550.<br/>
 <a href="https://doi.org/10.1201/b17912"> doi.org/10.1201/b17912</a></li>
       <li><b>Van Hoorde, K.</b>, Van Landschoot, A., Vandamme, P., Huys, G. 2013. Molecular approaches to study cheese
 microbiota: Principles and applications. In: Advances in Food Safety and Food Microbiology, Eds. Randazzo,
 C. L., Caggia, C., Neviani, E. Nova Science Publishers, New York, US. pp. 149-166.</li>
       <li><b>Van Hoorde, K.</b>, Van Landschoot, A. 2013. Gouda-type cheeses. In: Handbook of Cheese in Health:
 Production, Nutrition and Medical Sciences, Eds. Preedy, V. R., Watson, R. R., Patel, V. B. Wageningen Academic
-Publishers, Wageningen, The Netherlands. pp. 227-236.</li><br/>
+Publishers, Wageningen, The Netherlands. pp. 227-236.<br/>
 <a href="https://doi.org/10.3920/978-90-8686-766-0_15"> doi.org/10.3920/978-90-8686-766-0_15</a></li>
     </ul><br/>
   <li>Forthcoming</li>
@@ -516,4 +516,4 @@ strains from humans, animals and probiotic products. Doctoraatssymposium Faculte
 <br/>
 <br/>
 Last update:
-Fri, 23 Mar 2018 17:08:16 +0000
+Fri, 23 Mar 2018 17:10:58 +0000
