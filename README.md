@@ -50,7 +50,7 @@ Personal Information
 <table>
 	<tr>
     <td>Name<br/> Address<br/> Place and date of birth<br/> Nationality<br/> Phone<br/> E-mail<br/> LinkedIn<br/> www<br/> Twitter<br/> </td>
-    <td>Koenraad Van Hoorde<br/> Burg. Van Gansberghelaan 53, 9820 Merelbeke, Belgium<br/> Ghent, March 2<sup>nd</sup>, 1978<br/> Belgian<br/> +32 (0) 498 72 67 23<br/> <a href="mailto:vanhoordek@outlook.com"> vanhoordek@outlook.com </a><br/> <a href="https://linkedin.com/in/vanhoordek"> https://linkedin.com/in/vanhoordek </a><br/> <a href="https://vanhoordek.github.io/CV/"> https://vanhoordek.github.io/CV/ </a><br/> @vanhoordek </td>
+    <td>Koenraad Van Hoorde<br/> Burg. Van Gansberghelaan 53, 9820 Merelbeke, Belgium<br/> Ghent, March 2<sup>nd</sup>, 1978<br/> Belgian<br/> +32 (0) 498 72 67 23<br/> <a href="mailto:vanhoordek@outlook.com"> vanhoordek@outlook.com </a><br/> <a href="https://linkedin.com/in/vanhoordek"> https://linkedin.com/in/vanhoordek </a><br/> <a href="https://vanhoordek.github.io/CV"> https://vanhoordek.github.io/CV </a><br/> @vanhoordek </td>
   </tr>
 </table>
 </address>
@@ -102,13 +102,13 @@ Professional Experience
     <ul class="b">
       <li>Research</li>
         <ul class="c">
-          <li>microbiology of (fermented) foods and industrial fermentations in particular, microbiology in general (environment, water, soil, clinical...)</li>
+          <li>microbiology of (fermented) foods and industrial fermentations in particular, microbiology in general (environment, water, soil, clinical)</li>
           <li>microbial diversity and dynamics studies using molecular fingerprinting, sequencing and mass spectrometry techniques</li>
           <li>development and validation of proteomics approaches in the context of microbial taxonomy and diversity and as tools to monitor fermentation processes</li>
         </ul>
       <li>Supervising the work of lab technicians and students (Ph.D., master and bachelor level)</li>
       <li>Teaching and training: e.g. microbiology, microbiological methods, gene technology, organic chemistry, food biotechnology, lab exercises</li>
-      <li>Communication of research orally and written</li>
+      <li>Communicating on research orally and written</li>
       <li>As a member of the Biosafety Committee I'm in control of correct practices in the lab, writing guidelines and performing risk analyses; my presence is required during audits</li>
     </ul>
 <br/>
@@ -161,12 +161,12 @@ Additional Training
 </p>
 
 <ul class="a">
-  <li>Food risk assessment training - European Food Safety Authority (EFSA), in collaboration with AGES, BfR and EFET, Parma, Italy, 2017-2018, 6-week training</li><br/>
+  <li>Food risk assessment training - European Food Safety Authority (EFSA), in collaboration with AGES, BfR and EFET, 2017-2018, 6-week training</li><br/>
   <li>Food safety regulation (module of MSc Food Safety & Risk Analysis) - University College Dublin, in collaboration with FSAI, Dublin, Ireland, 2018, 2-day course</li><br>
-  <li>Nutrition and health: Food Risks - Wageningen University, the Netherlands (edX Verified Certificate), 2017</li><br/>
+  <li>Nutrition and health: Food risks - Wageningen University, the Netherlands (edX Verified Certificate), 2017</li><br/>
   <li>Advanced MALDI training course: MALDI-TOF MS for microbial identification and MALDI-TOF/TOF proteomics - Bruker Daltonik GmbH, Bremen, Germany, 2016, 6-day training </li><br/>
   <li>Leadership skills for postdocs - True Colours, Ghent, Belgium, 2016, 3-day training</li><br/>
-  <li>FTIR spectroscopy applied to microbiology - Bruker, Perugia, Italy, 2015, 1-day training</li><br/>
+  <li>FTIR spectroscopy applied to microbiology - Bruker Daltonik GmbH, Perugia, Italy, 2015, 1-day training</li><br/>
   <li>Programming</li>
     <ul class="b">
       <li>Command line tools for genomic data sciences - Johns Hopkins University, US (Coursera Signature Track), 2018</li>
@@ -182,9 +182,9 @@ Additional Training
       <li>Introductory statistics: Basics of statistical inference, 2005</li>
       <li>Introduction to SPSS, 2005</li>
     </ul><br/>
-  <li>MS Access data management, advance level - CVO-IVV de Avondschool, Ghent, Belgium, 2005</li><br/>
+  <li>MS Access data management, advanced level - CVO-IVV de Avondschool, Ghent, Belgium, 2005</li><br/>
   <li>Dairy technology course - BCZ-CBL in collaboration with IPV, Belgium, 2004</li><br/>
-  <li>Selected courses - Ghent University</li>
+  <li>Selected courses - Ghent University, Belgium</li>
     <ul class="b">
       <li>Food microbiology</li>
       <li>Molecular aspects of microbial systematics</li>
@@ -211,10 +211,10 @@ Personal Skills
   <li>Computer skills</li>
     <ul class="b">
       <li>MS Windows, MS Office Suite, MS Sharepoint</li>
-      <li>Graphic tools (Photoshop, CorelDraw, Gimp): used for designing and editing illustrations based on graphs, tables,
+      <li>Graphic tools (Adobe Photoshop, CorelDraw, Gimp): used for designing and editing illustrations based on graphs, tables,
 				or any other data to be visualized in publications and presentations</li>
       <li>Database tools: used to create relational databases, queries and reports</li>
-      <li>Statistics and bio-informatics software</li>
+      <li>Statistics and bio-informatics software (e.g. but not limited to SPPS, R, BioNumerics, sequence analysis tools)</li>
       <li>Programming languages (basics of R, Python, Linux, HTML)</li>
     </ul><br/>
   <li>Communication skills</li>
@@ -378,28 +378,30 @@ International ICFMH Conference, Food Micro 2014, Nantes, France.</li>
 Impressions of its applicability for monitoring the microbial diversity in food ecosystems. 3<sup>rd</sup> meeting ‘Flemish
 Research Consortium on Fermented Foods and Beverages’, VUB, Brussels, Belgium.</li>
       <li><b>Van Hoorde K.</b>, Vandamme, P., Van Landschoot, A. 2013. MALDI-TOF MS of microbial mixtures:
-Impressions of its applicability for monitoring the microbial diversity in food ecosystems. 113<sup>th</sup> General Meeting,
+Impressions of its applicability for monitoring the microbial diversity in food ecosystems. 113<sup>th</sup> General Meeting
 American Society for Microbiology, Denver, Colorado, United States.</li>
-      <li>Kick-off meeting ‘Flemish Research Consortium on Fermented Foods and Beverages’. 2012. Polyphasic
-identification of <i>Staphylococcus</i> species isolated from raw milk cheeses: Matrix-assisted laser desorption/ionization-
-time of flight mass spectrometry as an alternative identification tool. VUB, Brussels, Belgium.</li>
-      <li>Invited speaker at ‘Studienamiddag MALDI-TOF MS, een nieuwe tool voor de identificatie van micro-
-organismen’. 2012. HoWest, Biomedische Laboratoriumtechnologie & BVLT, Identification and classification of
-bacteria in a food microbiology context. Bruges, Belgium.</li>
+      <li><b>Van Hoorde K.</b>, Vandamme, P., Van Landschoot, A. 2012.Polyphasic identification of <i>Staphylococcus</i> species
+isolated from raw milk cheeses: Matrix-assisted laser desorption/ionization-time of flight mass spectrometry as an alternative identification tool.
+Kick-off meeting ‘Flemish Research Consortium on Fermented Foods and Beverages’, VUB, Brussels, Belgium.</li>
+      <li><b>Van Hoorde K.</b> 2012. Identification and classification of bacteria in a food microbiology context.
+Invited speaker at ‘Studienamiddag MALDI-TOF MS, een nieuwe tool voor de identificatie van micro-organismen’,
+HoWest, Biomedische Laboratoriumtechnologie & BVLT, Bruges, Belgium.</li>
       <li><b>Van Hoorde, K.</b>, Peeters, C., Vandamme, P., Van Landschoot, A. 2011. Polyphasic identification of
 <i>Staphylococcus</i> species isolated from raw milk cheeses: Matrix-assisted laser desorption/ionization-time of flight
-mass spectrometry as an alternative identification tool. Belgian Society for Food Microbiology - 16<sup>th</sup>
+mass spectrometry as an alternative identification tool. Belgian Society for Food Microbiology, 16<sup>th</sup>
 Conference on Food Microbiology, Brussels, Belgium.</li>
       <li><b>Van Hoorde, K.</b>, Vandamme, P., Van Landschoot, A. 2010. Matrix-assisted laser desorption ionization-time
 of flight mass spectrometry (MALDI-TOF MS) of microbial mixtures: First impressions of its applicability for
-the analysis of gastrointestinal microbiota. GutMicroEcology - International Scientific Conference on Gastro-
+the analysis of gastrointestinal microbiota. GutMicroEcology, International Scientific Conference on Gastro-
 Intestinal Microbial Ecology, Kosice, Slovakia.</li>
       <li><b>Van Hoorde, K.</b>, Verstraete, T., Vandamme, P., Huys, G. 2008. The diversity of lactic acid bacteria in Flemish
 artisan raw milk Gouda-type cheeses. 5<sup>th</sup> IDF Symposium on Cheese Ripening, Bern, Switzerland.</li>
     </ul><br/>
   <li>Proceedings, Abstracts, Posters</li>
     <ul class="b">
-      <li>Randazzo, C.L., Pino, A., <b>Van Hoorde, K.</b>, Biondi, L., Valenti, B., Bella, M., Caggia, C. 2017.
+			<li><b>Van Hoorde, K.</b>, Butler, F. 2018. Next generation sequencing in microbial food risk assessment: Are we there yet?
+Belfast Summit on Global Food Integrity 2018, Asset 2018, Belfast, Northern Ireland.</li>
+			<li>Randazzo, C.L., Pino, A., <b>Van Hoorde, K.</b>, Biondi, L., Valenti, B., Bella, M., Caggia, C. 2017.
 Effect of different tannin-extracts as dietary supplementation on fatty acids and microbial composition of lamb meat.
 4<sup>th</sup> International Conference on Microbial Diversity, Bari, Italy.</li>
       <li>Randazzo, C. L., Caggia, C., Butera, V. M., Russo, N., <b>Van Hoorde, K</b>. 2015. Lactic acid bacteria from
@@ -410,10 +412,10 @@ different Belgian beers of more than 25 years old unraveled with MALDI-TOF MS. 3
 Convention, Porto, Portugal.</li>
       <li><b>Van Hoorde K.</b>, Vandamme, P., Van Landschoot, A. 2014. MALDI-TOF MS of microbial mixtures:
 Impressions of its applicability for monitoring the microbial diversity and dynamics in food ecosystems. Belgian
-Society for Food Microbiology - 19<sup>th</sup> Conference on Food Microbiology, Brussels, Belgium.</li>
+Society for Food Microbiology, 19<sup>th</sup> Conference on Food Microbiology, Brussels, Belgium.</li>
       <li>Van der Eecken, N., De Meerleer, M., Van Laere, D., Ruyssen, T., Vermeiren, L., <b>Van Hoorde, K.</b> 2013.
 MALDI-TOF MS: A new approach to monitor the bacterial diversity in sodium reduced Gouda cheese. Belgian
-Society for Food Microbiology - 18<sup>th</sup> Conference on Food Microbiology, Brussels, Belgium.</li>
+Society for Food Microbiology, 18<sup>th</sup> Conference on Food Microbiology, Brussels, Belgium.</li>
       <li><b>Van Hoorde, K.</b>, Vandamme, P., Van Landschoot, A. 2013. MALDI-TOF MS of microbial mixtures:
 Impressions of its applicability to study food microbiota. Knowledge for Growth 2013, Ghent, Belgium.</li>
       <li>Nguyen, T.L.D., <b>Van Hoorde K.</b>, Cnockaert, M., Le, B.T., Vandamme, P. 2012. Study of microbial
@@ -436,7 +438,7 @@ of flight mass spectrometry (MALDI-TOF MS) of microbial mixtures: A first impres
 monitoring the effect of food and feed on gastro-intestinal microbiota. Workshop ‘Microbial Diagnostic
 Applications of Mass Spectrometry', HPA, Colindale, London, United Kingdom.</li>
       <li>Hoefman, S., <b>Van Hoorde, K.</b>, Boon, N., Vandamme, P., De Vos, P., Heylen, K. 2011. Survival or revival:
-Long-term preservation induces a reversible viable but non-culturable state in methane-oxidizing bacteria. Belgian
+Long-term preservation induces a reversible viable but non-culturable state in methane-oxidizing bacteria. 2011 Meeting Belgian
 Society for Microbiology, Brussels, Belgium.</li>
       <li>Ghyselinck, J., O' Herlihy, E., Prestwich, B.D., Velivelli, S.L.S., <b>Van Hoorde, K.</b>, Hoste, B., Heylen, K., De Vos, P. 2012.
 Bacterial diversity and plant growth-promotion potential in Andean potato rhizosphere soils.
@@ -474,7 +476,7 @@ to study the diversity of lactic acid bacteria associated with the production of
 Conference on Food Microbiology, Ghent, Belgium.</li>
       <li><b>Van Hoorde, K.</b>, Vandamme, P., Huys, G. 2006. The use of PCR-DGGE as a culture-independent approach
 to study the diversity of lactic acid bacteria associated with the production of artisanal Gouda-type cheeses.
-Belgian Society for Microbiology Symposium, Brussels, Belgium.</li>
+2006 Meeting Belgian Society for Microbiology, Brussels, Belgium.</li>
       <li>Masco, L., <b>Van Hoorde, K.</b>, Swings, J., Huys, G. 2005. Antimicrobial susceptibility testing of <i>Bifidobacterium</i>
 strains from humans, animals and probiotic products. Doctoraatssymposium Faculteit Wetenschappen, Ghent,
 Belgium.</li>
@@ -489,4 +491,4 @@ Belgium.</li>
 <br/>
 <br/>
 Last update:
-Sun, 04 Mar 2018 22:10:01 +0000
+Fri, 23 Mar 2018 11:57:54 +0000
