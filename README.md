@@ -108,9 +108,9 @@ Professional Experience
 					<li>in vitro assessment studies related to probiotic properties</li>
 				</ul>
       <li>Supervising the work of lab technicians and students (Ph.D., master and bachelor level)</li>
-      <li>Teaching and training: e.g. microbiology, microbiological methods, gene technology, organic chemistry, food biotechnology, lab exercises</li>
+      <li>Teaching and training: e.g. microbiology, microbiological methods, food biotechnology, gene technology, organic chemistry, lab exercises</li>
       <li>Communicating on research orally and written</li>
-      <li>As a member of the Biosafety Committee I'm in control of correct practices in the lab, writing guidelines and performing risk analyses; my presence is required during audits</li>
+      <li>As a member of the biosafety committee I'm in control of correct practices in the lab, writing guidelines and performing risk analyses; my presence is required during audits</li>
     </ul>
 <br/>
   <li>Ph.D. in Biochemistry/Microbiology, Faculty of Sciences, Ghent University, 2004-2009<br/>
@@ -171,7 +171,7 @@ Additional Training
   <li>Programming</li>
     <ul class="b">
       <li>Command line tools for genomic data sciences - Johns Hopkins University, US (Coursera Signature Track), 2018</li>
-      <li>The Unix workbench, Johns Hopkins University - US (Coursera Signature Track), 2018</li>
+      <li>The Unix workbench - Johns Hopkins University, US (Coursera Signature Track), 2018</li>
       <li>An introduction to interactive programming in Python - Rice University, US (Coursera Signature Track), 2015</li>
       <li>Computing for data analysis, an introduction to programming in R - Johns Hopkins University, US (Coursera Signature Track) 2014</li>
     </ul><br/>
@@ -209,13 +209,13 @@ Personal Skills
       <li>German: basic user</li>
       <li>Spanish: basic user</li>
     </ul><br/>
-  <li>Computer skills</li>
+  <li>Computer and (bio)informatics skills</li>
     <ul class="b">
       <li>MS Windows, MS Office Suite, MS Sharepoint</li>
       <li>Graphic tools (Adobe Photoshop, CorelDraw, Gimp): used for designing and editing illustrations based on graphs, tables,
 				or any other data to be visualized in publications and presentations</li>
       <li>Database tools: used to create relational databases, queries and reports</li>
-      <li>Statistics and bio-informatics software (e.g. but not limited to SPPS, R, BioNumerics, sequence analysis tools)</li>
+      <li>Statistics and bioinformatics software (e.g. but not limited to SPPS, R, BioNumerics, sequence analysis tools)</li>
       <li>Programming languages (basics of R, Python, Linux, HTML)</li>
     </ul><br/>
   <li>Communication skills</li>
@@ -517,4 +517,4 @@ strains from humans, animals and probiotic products. Doctoraatssymposium Faculte
 <br/>
 <br/>
 Last update:
-Tue, 03 Apr 2018 17:58:00 +0000
+Tue, 03 Apr 2018 18:17:52 +0000
