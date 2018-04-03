@@ -105,7 +105,7 @@ Professional Experience
           <li>microbiology of (fermented) foods and industrial fermentations in particular, microbiology in general (environment, water, soil, clinical)</li>
           <li>microbial diversity and dynamics studies using molecular fingerprinting, sequencing and mass spectrometry techniques</li>
           <li>development and validation of proteomics approaches in the context of microbial taxonomy and diversity and as tools to monitor fermentation processes</li>
-					<li>in vitro assessment studies related to probiotic properties
+					<li>in vitro assessment studies related to probiotic properties</li>
 				</ul>
       <li>Supervising the work of lab technicians and students (Ph.D., master and bachelor level)</li>
       <li>Teaching and training: e.g. microbiology, microbiological methods, gene technology, organic chemistry, food biotechnology, lab exercises</li>
@@ -517,4 +517,4 @@ strains from humans, animals and probiotic products. Doctoraatssymposium Faculte
 <br/>
 <br/>
 Last update:
-Tue, 03 Apr 2018 17:54:18 +0000
+Tue, 03 Apr 2018 17:58:00 +0000
