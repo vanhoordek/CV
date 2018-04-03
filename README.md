@@ -89,7 +89,7 @@ Professional Experience
   <li>Visiting Scientist (EFSA Fellowship), Centre for Food Safety, University College Dublin, Ireland, 2017-present<br/>
   Tasks:</li>
     <ul class="b">
-      <li>Implementing next generation sequencing techniques and data</li>
+      <li>Implementing next generation sequencing techniques and data (Illumina and Nanopore technology)</li>
         <ul class="c">
           <li>in support of microbial food risk assessment and food safety</li>
 					<li>to characterize and track microbial pathogens in a food processing facility</li>
@@ -105,7 +105,8 @@ Professional Experience
           <li>microbiology of (fermented) foods and industrial fermentations in particular, microbiology in general (environment, water, soil, clinical)</li>
           <li>microbial diversity and dynamics studies using molecular fingerprinting, sequencing and mass spectrometry techniques</li>
           <li>development and validation of proteomics approaches in the context of microbial taxonomy and diversity and as tools to monitor fermentation processes</li>
-        </ul>
+					<li>in vitro assessment studies related to probiotic properties
+				</ul>
       <li>Supervising the work of lab technicians and students (Ph.D., master and bachelor level)</li>
       <li>Teaching and training: e.g. microbiology, microbiological methods, gene technology, organic chemistry, food biotechnology, lab exercises</li>
       <li>Communicating on research orally and written</li>
@@ -516,4 +517,4 @@ strains from humans, animals and probiotic products. Doctoraatssymposium Faculte
 <br/>
 <br/>
 Last update:
-Fri, 23 Mar 2018 17:41:31 +0000
+Tue, 03 Apr 2018 17:54:18 +0000
