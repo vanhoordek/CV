@@ -1,5 +1,15 @@
 <html>
 <head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-118414339-1"></script>
+	<script>
+  	window.dataLayer = window.dataLayer || [];
+  	function gtag(){dataLayer.push(arguments);}
+  	gtag('js', new Date());
+
+  	gtag('config', 'UA-118414339-1');
+	</script>
+
 <link href="https://fonts.googleapis.com/css? family=PS+Sans|Playfair+Display" rel="stylesheet">
 <style>
 p.head {
@@ -517,4 +527,4 @@ strains from humans, animals and probiotic products. Doctoraatssymposium Faculte
 <br/>
 <br/>
 Last update:
-Tue, 03 Apr 2018 18:17:52 +0000
+Mon, 30 Apr 2018 16:18:03 +0000
