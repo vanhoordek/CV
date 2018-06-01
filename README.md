@@ -266,8 +266,20 @@ Scientific Output
     <ul class="b">
       <li>Pino, A., De Angelis, M., <b>Van Hoorde, K.</b>, Randazzo, C. L., Caggia, C. 2018. Fermentation of Nocellara Etnea
 table olives by functional starter cultures at different low salt concentrations. Frontiers in Microbiology, Accepted.<br/>
-<a href="https://doi.org/10.3389/fmicb.2018.01125"> doi.org/10.3389/fmicb.2018.01125</a><br/><br/>
-<p style="font-size: 10px">Food containing probiotic microorganisms constitute an important category within the segment of functional foods.
+<a href="https://doi.org/10.3389/fmicb.2018.01125"> doi.org/10.3389/fmicb.2018.01125</a><br/>
+<p style="font-size: 12px">Fermented table olives constitute an important part of the Mediterranean diet and are also an important export product. The
+	fermentation process, mainly dominated by lactic acid bacteria (LAB) and yeasts, not only contributes to the development of the organoleptic
+properties of the final product but also acts as a means to inhibit spoilage and pathogenic micro-organisms. Still salt is added to prevent
+growth of spoilers and to improve the taste and texture of the final product. As high levels of salt intake have been correlated with certain
+health impairments, the EU member states are stimulated to implement nutritional policies to reduce consumer's salt intake exposure. This
+study evaluated the use of selected LAB strains to be selected as starter cultures for the production of table olives with reduced salt content.<br/>
+Impact: Certain carefully screened and characterized LAB strains used as starter cultures for table olive fermentation exhibit properties
+that can compensate for reduced sodium contents while maintaining a safe and sensorial fully acceptable end product, with perspectives for
+production at industrial scale.</p></li>
+			<li>Pino, A., De Angelis, M., <b>Van Hoorde, K.</b>, Randazzo, C. L., Caggia, C. 2018. Fermentation of Nocellara Etnea
+table olives by functional starter cultures at different low salt concentrations. Frontiers in Microbiology, Accepted.<br/>
+<a href="https://doi.org/10.3389/fmicb.2018.01125"> doi.org/10.3389/fmicb.2018.01125</a><br/>
+<p style="font-size: 12px">Food containing probiotic microorganisms constitute an important category within the segment of functional foods.
 In addition to their 'healt-promoting effects', microbial strains to be used as a probiotic also need to survive the conditions
 within the food product and should remain viable after passage through the gastro-intestinal tract. The type of food matrix is
 a crucial factor in all of this. It is also important that the probiotic culture added to the food does not negtively influence its
@@ -276,6 +288,8 @@ is important.<br/>
 Impact: Cheese can be a good carrier for probiotics. Carefully selected strains that survive cheese production, without altering
 sensory properties, and that remain viable after passage through the gastro-intestinal tract, offer opportunities to be implemented
 in the industrial scale manufacturing of probiotic cheese types.</p></li>
+
+
 
 
 		</ul><br/>
@@ -547,4 +561,4 @@ strains from humans, animals and probiotic products. Doctoraatssymposium Faculte
 <br/>
 <br/>
 Last update:
-Fri, 01 Jun 2018 15:03:11 +0000
+Fri, 01 Jun 2018 15:16:52 +0000
