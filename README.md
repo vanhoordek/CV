@@ -262,9 +262,29 @@ Scientific Output
 </p>
 
 <ul class="a">
+  <li>List of selected publications with indication of (industry) impact</li>
+    <ul class="b">
+      <li>Pino, A., De Angelis, M., <b>Van Hoorde, K.</b>, Randazzo, C. L., Caggia, C. 2018. Fermentation of Nocellara Etnea
+table olives by functional starter cultures at different low salt concentrations. Frontiers in Microbiology, Accepted.<br/>
+<a href="https://doi.org/10.3389/fmicb.2018.01125"> doi.org/10.3389/fmicb.2018.01125</a><br/><br/>
+<p style="font-size: 10px">Food containing probiotic microorganisms constitute an important category within the segment of functional foods.
+In addition to their 'healt-promoting effects', microbial strains to be used as a probiotic also need to survive the conditions
+within the food product and should remain viable after passage through the gastro-intestinal tract. The type of food matrix is
+a crucial factor in all of this. It is also important that the probiotic culture added to the food does not negtively influence its
+organoleptic and sensorial properties. Hence a careful evaluation of potential probiotic strains in combination with the food matrix
+is important.<br/>
+Impact: Cheese can be a good carrier for probiotics. Carefully selected strains that survive cheese production, without altering
+sensory properties, and that remain viable after passage through the gastro-intestinal tract, offer opportunities to be implemented
+in the industrial scale manufacturing of probiotic cheese types.</p></li>
+
+
+		</ul><br/>
   <li>A1 publications</li>
     <ul class="b">
-      <li>Pino, A., <b>Van Hoorde, K.</b>, Pitino, I., Russo, N., Carpino, S., Caggia, C., Randazzo, C. L. 2017. Survival of
+			<li>Pino, A., De Angelis, M., <b>Van Hoorde, K.</b>, Randazzo, C. L., Caggia, C. 2018. Fermentation of Nocellara Etnea
+table olives by functional starter cultures at different low salt concentrations. Frontiers in Microbiology, Accepted.<br/>
+<a href="https://doi.org/10.3389/fmicb.2018.01125"> doi.org/10.3389/fmicb.2018.01125</a></li>
+			<li>Pino, A., <b>Van Hoorde, K.</b>, Pitino, I., Russo, N., Carpino, S., Caggia, C., Randazzo, C. L. 2017. Survival of
 potential probiotic lactobacilli used as adjunct cultures on Pecorino Siciliano cheese ripening and passage through
 the gastrointestinal tract of healthy volunteers. International Journal of Food Microbiology, 252, 42-52.<br/>
 <a href="https://doi.org/10.1016/j.ijfoodmicro.2017.04.012"> doi.org/10.1016/j.ijfoodmicro.2017.04.012</a></li>
@@ -527,4 +547,4 @@ strains from humans, animals and probiotic products. Doctoraatssymposium Faculte
 <br/>
 <br/>
 Last update:
-Mon, 30 Apr 2018 16:18:03 +0000
+Fri, 01 Jun 2018 15:03:11 +0000
