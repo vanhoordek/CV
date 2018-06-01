@@ -46,6 +46,10 @@ ul.c {
 	list-style-type: disc;
   text-align: justify;
 }
+div.a {
+	font-size: 12px;
+	text-indent: 25px;
+}
 </style>
 </head>
 <body>
@@ -267,7 +271,8 @@ Scientific Output
       <li>Pino, A., De Angelis, M., <b>Van Hoorde, K.</b>, Randazzo, C. L., Caggia, C. 2018. Fermentation of Nocellara Etnea
 table olives by functional starter cultures at different low salt concentrations. Frontiers in Microbiology, Accepted.<br/>
 <a href="https://doi.org/10.3389/fmicb.2018.01125"> doi.org/10.3389/fmicb.2018.01125</a><br/>
-<p style="font-size: 12px">Fermented table olives constitute an important part of the Mediterranean diet and are also an important export product. The
+			<div class="a">
+<p>Fermented table olives constitute an important part of the Mediterranean diet and are also an important export product. The
 	fermentation process, mainly dominated by lactic acid bacteria (LAB) and yeasts, not only contributes to the development of the organoleptic
 properties of the final product but also acts as a means to inhibit spoilage and pathogenic micro-organisms. Still salt is added to prevent
 growth of spoilers and to improve the taste and texture of the final product. As high levels of salt intake have been correlated with certain
@@ -275,7 +280,7 @@ health impairments, the EU member states are stimulated to implement nutritional
 study evaluated the use of selected LAB strains to be selected as starter cultures for the production of table olives with reduced salt content.<br/>
 Impact: Certain carefully screened and characterized LAB strains used as starter cultures for table olive fermentation exhibit properties
 that can compensate for reduced sodium contents while maintaining a safe and sensorial fully acceptable end product, with perspectives for
-production at industrial scale.</p></li>
+production at industrial scale.</p></div></li>
 			<li>Pino, A., De Angelis, M., <b>Van Hoorde, K.</b>, Randazzo, C. L., Caggia, C. 2018. Fermentation of Nocellara Etnea
 table olives by functional starter cultures at different low salt concentrations. Frontiers in Microbiology, Accepted.<br/>
 <a href="https://doi.org/10.3389/fmicb.2018.01125"> doi.org/10.3389/fmicb.2018.01125</a><br/>
